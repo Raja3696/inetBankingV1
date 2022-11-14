@@ -1,0 +1,13 @@
+com\inetbanking\utilities\XlUtiPractice.class
+com\inetbanking\testCases\BaseClass.class
+com\inetbanking\testCases\TC_LoginTest_001.class
+com\inetbanking\utilities\Excelpractive.class
+com\inetbanking\testCases\TC_LoginDDT_002.class
+com\inetbanking\testCases\dataDriven.class
+com\inetbanking\pageObjects\AddCustomerPage.class
+com\inetbanking\utilities\Reporting.class
+com\inetbanking\pageObjects\LoginPage.class
+com\inetbanking\testCases\TC_AddCustomer_003.class
+com\inetbanking\utilities\XLUtils.class
+com\inetbanking\testCases\extract.class
+com\inetbanking\utilities\ReadConfig.class
